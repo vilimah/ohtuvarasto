@@ -27,12 +27,12 @@ def main():
     #huono = Varasto(-100.0)
     #print(huono)
 
-    print("Varasto(100.0, -50.7)")
-    huono = Varasto(100.0, -50.7)
-    print(huono)
+    #print("Varasto(100.0, -50.7)")
+    #huono = Varasto(100.0, -50.7)
+    #print(huono)
 
-    print(f"Olutvarasto: {olutta}")
-    print("olutta.lisaa_varastoon(1000.0)")
+    #print(f"Olutvarasto: {olutta}")
+    #print("olutta.lisaa_varastoon(1000.0)")
     olutta.lisaa_varastoon(1000.0)
     print(f"Olutvarasto: {olutta}")
 
